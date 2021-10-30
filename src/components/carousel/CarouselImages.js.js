@@ -16,11 +16,12 @@ import laptop1 from '../images/laptop1.jpg'
                 {/* <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible ={true}> */}
             <Carousel 
                 className={classes.carousel} 
-                dynamicHeight infiniteLoop={true} 
+                dynamicHeight 
+                // infiniteLoop={true} 
                 interval={6000} useKeyboardArrows={true} 
                 transitionTime={1700} 
                 emulateTouch showArrows={false} 
-                autoPlay  
+                // autoPlay  
                 showStatus={false} 
                 showThumbs={false} 
             >
