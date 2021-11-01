@@ -23,7 +23,7 @@ class Interest extends Component {
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.web}>
                 <h3>Web Develpoment</h3>
-                <p>I am a full stack web developer(MERN) and build websites using HTML, CSS, Javascript (NodeJS, ExpressJS, ReactJS).
+                <p>I am a full stack web developer(MERN). Fluent in HTML, CSS, Javascript (NodeJS, ExpressJS, ReactJS).
                   <br />
                   Databases: SQL and NoSQL(MongoDB).
                   <br /> 
