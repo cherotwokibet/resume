@@ -25,7 +25,7 @@ class Interest extends Component {
                 <h3>Web Develpoment</h3>
                 <p>I am a full stack web developer(MERN). Fluent in HTML, CSS, Javascript (NodeJS, ExpressJS, ReactJS).
                   <br />
-                  Databases: SQL and NoSQL(MongoDB).
+                  Databases: Proficient in SQL and NoSQL(MongoDB).
                   <br /> 
                   Cloud: Google Firebase, Netlify and Heroku.
                   <br /> I also have a decent amount of work developing websites with WordPress.

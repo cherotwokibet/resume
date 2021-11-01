@@ -37,7 +37,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                 <h2 > JOMO KENYATTA UNIVERSITY OF AGRI & TECH <span>2012-2017</span></h2>
-                                                    <p> Graduated with a Bsc Computer Science 2nd Class Honors from <a href='https://jkuat.ac.ke/'>JKUAT</a>. </p>
+                                                    <p> Graduated with a Bsc Computer Science 2nd Class Honors from <a href='https://jkuat.ac.ke/' style={{color:'Highlight'}}>JKUAT</a>. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -48,7 +48,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                 <h2 >Internship <span>2016</span></h2>
-                                                <p>Completed 4 months Internship at <a href='http://hotgroup.co.ke/'>House of Technology</a> </p>
+                                                <p>Completed 4 months Internship at <a href='http://hotgroup.co.ke/' style={{color:'Highlight'}}>House of Technology</a> </p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div  className={classes.timeline_icon_3||classes.color_none}></div></div>
                                             </article>
@@ -57,7 +57,7 @@ class Education extends Component {
                                             <article>
                                                 <div className={classes.label}>
                                                 <h2 >Web App Developer <span>2017-2020</span></h2>
-                                                <p> Worked as a web app developer for <a href='https://onion.ke/'>Onion Smart Solutions</a></p>
+                                                <p> Worked as a web app developer for <a href='https://onion.ke/' style={{color:'Highlight'}}>Onion Smart Solutions</a></p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div  className={classes.timeline_icon_3||classes.color_none}></div></div>
                                             </article>
@@ -66,7 +66,9 @@ class Education extends Component {
                                             <article>
                                                 <div className={classes.label}>
                                                 <h2 > Freelancing <span>2020-2021</span></h2>
-                                                <p> Github: <a href='https://github.com/cherotwokibet'>Check out my projects</a> </p>
+                                                <p> Github:  
+                                                    <a href='https://github.com/cherotwokibet' style={{color:'Highlight'}} > Check out my projects</a> 
+                                                </p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div  className={classes.timeline_icon_3||classes.color_none}></div></div>
                                             </article>

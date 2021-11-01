@@ -21,7 +21,7 @@ import laptop1 from '../images/laptop1.jpg'
                 interval={6000} useKeyboardArrows={true} 
                 transitionTime={1700} 
                 emulateTouch showArrows={false} 
-                // autoPlay  
+                autoPlay  
                 showStatus={false} 
                 showThumbs={false} 
             >
