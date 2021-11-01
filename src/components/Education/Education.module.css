@@ -138,12 +138,12 @@
 
 p > a {
   text-decoration: none;
-  color: inherit;
+  color: rgb(59, 124, 184);
   font-weight: bold;
 }
 
 a:hover {
-  color: rgb(43, 118, 189);
+  color: rgb(25, 81, 133);
   text-decoration: none;
 }
 
